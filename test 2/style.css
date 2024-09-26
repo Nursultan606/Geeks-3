@@ -1,0 +1,13 @@
+#block {
+            width: 100px;
+            height: 100px;
+            background-color: lightblue;
+            border: 1px solid black;
+            margin-bottom: 10px;
+            display: block;
+        }
+        #button {
+            padding: 5px 10px;
+            border: 1px solid black;
+            cursor: pointer;
+        }
